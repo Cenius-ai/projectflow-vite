@@ -89,7 +89,7 @@ _Full guide: [`USAGE.md`](USAGE.md)_
 
 ## Architecture
 
-Open the repo and you'll find a complete Vite application (63 files). Top-level layout: `backend/`, `frontend/`. `install.sh` takes care of packages and initial data in a single pass; nothing else is required before launching. Installation walkthrough: [`INSTALL.md`](INSTALL.md).
+Open the repo and you'll find a complete Vite application (52 files). Top-level layout: `backend/`, `frontend/`. `install.sh` takes care of packages and initial data in a single pass; nothing else is required before launching. Installation walkthrough: [`INSTALL.md`](INSTALL.md).
 
 ## FAQ
 
